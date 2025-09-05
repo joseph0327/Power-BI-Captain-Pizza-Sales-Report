@@ -160,6 +160,9 @@ All visuals and KPIs are driven by dynamic DAX measures, making the report light
 ---
 
 ### 📷 Visuals Included  
-- **visual 1.png** – Dashboard Overview  
-- **visual 2.png** – Detailed Table View  
+- **visual 1.png** – Dashboard Overview
+![Dashboard Overview](https://github.com/joseph0327/Power-BI-Captain-Pizza-Sales-Report/blob/b54b5cad5fe8d25b2ff438aab1d0e07d55709e6b/visual%201.png)
+- **visual 2.png** – Detailed Table View
+![Dashboard Overview](https://github.com/joseph0327/Power-BI-Captain-Pizza-Sales-Report/blob/28e5d889da49a081f81cfe49fd1012c3310e7e63/visual%202.png)
 - **visual 5.png** – Data Model  
+![Dashboard Overview](https://github.com/joseph0327/Power-BI-Captain-Pizza-Sales-Report/blob/28e5d889da49a081f81cfe49fd1012c3310e7e63/visual%205.png)
